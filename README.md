@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This account will be for my Biomedical Data Science course (EN.585.771.81.FA24) in Fall 2024.
+
 <!--
 **EmilyPhamJHU/EmilyPhamJHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
